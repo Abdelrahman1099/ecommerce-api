@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
-VisualStudioVersion = 17.14.36915.13 d17.14
+VisualStudioVersion = 17.14.36915.13
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "E_Commerce.Domain", "E_Commerce.Domain\E_Commerce.Domain.csproj", "{6D33E46A-A364-45BF-A794-AE080BA5D563}"
 EndProject
@@ -10,6 +10,11 @@ EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "E_Commerce.Infrastructure", "E_Commerce.Infrastructure\E_Commerce.Infrastructure.csproj", "{11D7BFDD-E1B2-4167-9DC5-8A3DEC3C6C30}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "E_Commerce.API", "E_Commerce.API\E_Commerce.API.csproj", "{E986F5DF-DDFC-4B82-9DA7-FC9C9FB6B321}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{8EC462FD-D22E-90A8-E5CE-7E832BA40C5D}"
+	ProjectSection(SolutionItems) = preProject
+		README.md = README.md
+	EndProjectSection
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
